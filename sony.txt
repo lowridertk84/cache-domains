@@ -1,2 +1,3 @@
 gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
+ps4updptl.np.community.playstation.net.akadns.net
